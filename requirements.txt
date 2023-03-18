@@ -1,3 +1,4 @@
 streamlit==1.20.0
 joblib==1.2.0
 numpy==1.23.4
+pickle==4.0
